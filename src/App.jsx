@@ -6,7 +6,7 @@ import { Services } from "./Components/Works/Services";
 import { Phrase } from "./Components/Works/Phrase";
 import { Rrss } from "./Components/Footer/Rrss";
 import { Legal } from "./Components/Footer/Legal";
-import { Blog } from "./Components/Footer/Blog";
+// import { Blog } from "./Components/Footer/Blog";
 
 
 
@@ -22,7 +22,7 @@ function App() {
   <Phrase/>
   <Rrss/>
   <Legal/>
-  <Blog/>
+  {/* <Blog/> */}
 
 
   </>

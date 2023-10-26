@@ -7,10 +7,10 @@ export function Legal (){
               <a className="h4 text-decoration-none" href="#">Infinity Rentals</a>
               <div className="d-flex gap-3 mt-5">
                 <ul>
-                  <li>Inicio</li>
-                  <li>Nosotros</li>
-                  <li>Propiedades Destacadas</li>
-                  <li>Política de Privacidad</li>
+                  <li>About Us</li>
+                  <li>General Conditions</li>
+                  <li>Cookies Policy</li>
+                  <li>Privacy Policy</li>
 
                 </ul>
                
