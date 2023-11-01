@@ -30,30 +30,27 @@ export function Legal (){
                   Acepto las politicas de privacidad
                 </label>
               </div>
+              
               <div className="htmlForm-check">
                 <input className="htmlForm-check-input" type="checkbox" value="" id="flexCheckChecked" checked/>
                 <label className="htmlForm-check-label" htmlFor="flexCheckDefault">
                   Quiero recibir todas las novedades
                 </label>
               </div>
+              
               <div className="d-flex gap-3">
                 <p>Siguenos en redes</p>
                 <i className="bi bi-twitter"></i>
                 <i className="bi bi-facebook"></i>
                 <i className="bi bi-instagram"></i>
 
-
               </div>
               
             </div>
 
           </div>    
-      </footer>
-        
-        
-        
-        
-        
+      </footer>      
+                           
         </>
     )
 }
