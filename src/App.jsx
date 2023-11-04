@@ -18,7 +18,7 @@ function App() {
   <Header/>
   <Carrusel/> 
   <Houses/> 
-  <Services/>
+  <Services/> 
   <Phrase/>
   <Rrss/>
   <Legal/>
