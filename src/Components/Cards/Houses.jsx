@@ -4,7 +4,7 @@ export function Houses (){
         <div className="card text-bg-dark">
         <img src="../../src/assets/images/Casa1.jpg" className="card-img" alt="Casa1"/>
         <div className="card-img-overlay">
-          <h5 className="card-title">La Casa Der Manué</h5>
+          <h5 className="card-title">La Casa Der Manue</h5>
           <p className="card-text">3500 euros/mes </p>
           <button className="btn btn-primary" type="button" id="button-addon2">I like It</button>
         </div>

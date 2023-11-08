@@ -1,0 +1,31 @@
+{
+    "HousesList":[{
+            "name":"La Casa der Manué",
+            "price":"#f00"
+        },
+        {
+            "name":"verde",
+            "price":"#0f0"
+        },
+        {
+            "name":"azul",
+            "price":"#00f"
+        },
+        {
+            "name":"cyan",
+            "price":"#0ff"
+        },
+        {
+            "name":"magenta",
+            "price":"#f0f"
+        },
+        {
+            "name":"amarillo",
+            "price":"#ff0"
+        },
+        {
+            "name":"negro",
+            "price":"#000"
+        }
+    ]
+}
