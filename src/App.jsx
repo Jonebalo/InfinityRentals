@@ -13,8 +13,7 @@ import {Legal} from "./Components/Footer/Legal";
 
 function App() {
   return (  
-  <>
-  
+    <>   
   <Header/>
   <Carrusel/> 
   <Houses/> 
